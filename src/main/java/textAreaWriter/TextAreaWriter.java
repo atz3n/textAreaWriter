@@ -1,3 +1,4 @@
+package textAreaWriter;
 /**
  * Class to easily write into an JTextArea
  */

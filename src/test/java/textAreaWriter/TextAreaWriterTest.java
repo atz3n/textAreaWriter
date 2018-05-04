@@ -1,3 +1,4 @@
+package textAreaWriter;
 
 
 import static org.junit.Assert.assertTrue;
@@ -8,6 +9,8 @@ import javax.swing.JTextArea;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import textAreaWriter.TextAreaWriter;
 
 public class TextAreaWriterTest {
 
